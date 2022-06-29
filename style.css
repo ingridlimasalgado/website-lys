@@ -1,0 +1,20 @@
+:root{
+    --fondo: #141b24 ;
+    --claro: #c4bad6;
+    --gris1: #646278;
+    --gris2: #3a3951;
+    --marino: #809ab3;
+    --bordo: #5a4454;
+    --musgo: #605c5a;
+}
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: var(--fondo);
+}
+
+#fondo-tear{
+    height: 100vh;
+}
